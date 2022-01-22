@@ -1,0 +1,2 @@
+# CDN
+ALL ASSETS
